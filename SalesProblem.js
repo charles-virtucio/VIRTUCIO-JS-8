@@ -1,3 +1,5 @@
+//Virtucio, Charles Adrian C.
+//Kodego Bootcamp WD47P JS-8-A
 function topProduct(productProfitArray) {
   if (productProfitArray.length === 0) {
     return "No Data";
